@@ -1,2 +1,2 @@
-# programacao-orientada-a-objetos
+# POO
 Projetos da disciplina Programação Orientada a Objetos , 2° período de Ciência da Computação.
